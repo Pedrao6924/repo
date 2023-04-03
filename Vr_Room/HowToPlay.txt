@@ -1,0 +1,53 @@
+=============For VR Headsets=============
+
+Because we are simulation vr for development.
+While playing, you may select betwene showing the game form the left, right or both eyes.
+
+Right click and drag the mouse to properly set headset height.
+
+Press LShift with w,a,s,d to move.
+If you are still moving after relesing w,a,s,d press LShift.
+
+To look around press LCtrl + Right Click Mouse.
+
+
+The Game:
+
+Collect coins and find fun trivia facts about covid.
+
+Try to avoid the nasty virus while in the maze. 
+
+Use coins to buy upgrades for the player like masks, vaccines and vr goggles.
+These upgrades reduce the damage(-33) taken by the player.
+
+If your health hits 0 its GameOver.
+
+
+
+
+=============For Google Cardboard=============
+
+Because we are simulation vr for development.
+While playing, you may select betwene showing the game form the left, right or both eyes.
+
+Right click and drag the mouse to properly set headset height.
+
+To look around press LCtrl + Right Click Mouse.
+
+The Game:
+
+Use your laszer to teleport to safe zones and destroy the covid virus. But watch out, they will respawn.
+Every virus destroied will grant you coins to buy upgrades.
+These upgrades reduce the damage(-33) taken by the player.
+
+If your health hits 0 its GameOver.
+
+
+Modifications made for the Google Cardboard version:
+
+Main menu has been modified to no longer requier player input (Automaticly start loading the game).
+Added teleportation anchors to the game (Theses "safe zones" remove the requierment to move from the player. Allowing them to play with only 3 Dof).
+Stores have turned into teleportation anchors (safe sones).
+Slowed down the movement of the virus (This makes it easier to track and destroy the virus).
+
+

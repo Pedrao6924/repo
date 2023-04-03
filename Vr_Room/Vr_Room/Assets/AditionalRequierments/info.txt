@@ -1,0 +1,49 @@
+Unity Version : 2021.3.21f1
+
+Target Platfor: Windows, Android 8.0 and higher
+Packages/Plugins:
+
+ARKit XR Plugin (4.2.7)
+MockHMD XR Plugin (1.3.1-preview.1)
+JetBrains Rider Editor (3.0.18)
+Test Framework (1.1.31)
+TextMeshPro (3.0.6)
+Tutorial Framework (3.1.1)
+UnityUI (1.0.0)
+VersionControl (2.0.1)
+VisualScripting (1.0.8)
+VisualStudioCodeEditor (1.2.5)
+VisualStudioEditor (2.0.17)
+XR Interaction Toolkit (2.2.0)
+XR Plugin Management (4.2.1)
+Cardboard XR Pluging (1.20.0)
+
+Assets:
+Ravenmore_fantasy_icon_pack_2017 -> https://ravenmore.itch.io/fantasy-icon-pack
+Wenrexa Assets GUI Dark Miko -> https://wenrexa.itch.io/darkmiko/download/eyJpZCI6MTI4MTQ3OCwiZXhwaXJlcyI6MTY4MDIwMzA2Nn0%3d.I%2ftDkKgEIhOmn8nMw%2f%2fba6qrxVU%3d
+
+
+Aditional Icons:
+Mask Icon -> <a href="https://www.flaticon.com/free-icons/mask" title="mask icons">Mask icons created by Freepik - Flaticon</a>
+Vaccine Icon -> <a href="https://www.flaticon.com/free-icons/vaccine" title="vaccine icons">Vaccine icons created by Freepik - Flaticon</a>
+VR Glasses Icon -> <a href="https://www.flaticon.com/free-icons/vr-glasses" title="vr glasses icons">Vr glasses icons created by Freepik - Flaticon</a>
+
+SoundTrack:
+D&D / Video game Adventure Music - Rise Of A Champion (Loop) -> https://www.youtube.com/watch?v=jozPEJq5LkE&ab_channel=TabaxiBardMusic
+
+Textures:
+
+WoodTexture -> https://opengameart.org/content/wood-texture-tiles
+GrassTexture -> https://opengameart.org/sites/default/files/grass123.jpg
+StoneWallTexture -> https://opengameart.org/content/seamless-stone-wall-texture
+
+Posters: 
+
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/your-health/isolation-print-resource-final.pdf
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/communication/COVID-19_Using-Your-Home-Test-Kit-custom-print.pdf
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/communication/print-resources/Important-Steps-to-Choosing-Mask.pdf
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/communication/print-resources/Test-Soon-Treat-Early.pdf
+
+
+
+	
